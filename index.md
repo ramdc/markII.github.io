@@ -5,5 +5,5 @@
 ## Mechanical design
 ## Electrical design
 ## Software algorithms
-# Reading the sensors
-# PD controller
+### Reading the sensors
+### PD controller
